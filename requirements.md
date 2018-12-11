@@ -1,0 +1,6 @@
+### concept
+usot is a system that allows users to post statements as truth and allows other users vote to ask "why?". When there are enough "why?" votes usot will consider the statementto be unproven. When a statement is considered to be unproven usot will allow answers to be provided to the question of "why?" by the original poster or by those who have not voted to ask "why?". Those answers can also be voted on, so on and so forth. users will have a limited number of votes as to incentivize selective usage. when users decide they've been convinced of something they can take their votes back to use it elsewhere. removal of enough "why?" votes can remove a statement's unproven status. if a statement is unproven for long enough usot will consider it untrue and remove it.
+
+### goals
+
+### non-goals
